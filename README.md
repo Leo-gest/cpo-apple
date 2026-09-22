@@ -1,2 +1,0 @@
-# cpo-apple
-certified refurb
